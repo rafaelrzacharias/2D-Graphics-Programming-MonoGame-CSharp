@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Rafael/Documents/Visual Studio 2017/Projects/2D_Graphics_Programming/2D_Graphics_Programming/bin/Windows/x86/Debug/radialBlur.fx</SourceFile>
+  <SourceTime>2017-09-10T14:34:59.3421359-06:00</SourceTime>
+  <DestFile>C:/Users/Rafael/Documents/Visual Studio 2017/Projects/2D_Graphics_Programming/2D_Graphics_Programming/bin/Windows/x86/Debug/bin/Windows/radialBlur.xnb</DestFile>
+  <DestTime>2017-09-10T15:12:18.3852-06:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

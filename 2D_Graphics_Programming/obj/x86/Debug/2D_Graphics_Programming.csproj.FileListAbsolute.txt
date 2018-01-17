@@ -1,0 +1,99 @@
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\2D_Graphics_Programming.exe
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\2D_Graphics_Programming.pdb
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.exe
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.pdb
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\2D_Graphics_Programming\2D_Graphics_Programming\bin\Windows\x86\Debug\Content\sk1.xnb
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.exe
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.pdb
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\Content\sk1.xnb
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\2D_Graphics_Programming.exe
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\2D_Graphics_Programming.pdb
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\Content\sk1.xnb
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\2D_Graphics_Programming.exe
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\2D_Graphics_Programming.pdb
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.exe
+C:\Users\rafael\Documents\Projects\Library\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.pdb
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\Content\sk1.xnb
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\2D_Graphics_Programming.exe
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\2D_Graphics_Programming.pdb
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.csprojResolveAssemblyReference.cache
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.csproj.CoreCompileInputs.cache
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.exe
+C:\Users\661066\Downloads\2D Graphics Programming, John Pile Jr (MonoGame C#)\2D_Graphics_Programming\obj\x86\Debug\2D_Graphics_Programming.pdb
