@@ -1,4 +1,4 @@
-# 2D-Graphics-Programming-MonoGame-CSharp
+# 2D Graphics Programming MonoGame CSharp
 
 This was my first project.
 
