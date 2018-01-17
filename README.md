@@ -21,11 +21,11 @@ NOTES:
 
 - Move character using ARROW keys. Drag, acceleration and inertia are present in the movement.
 
-- There is a particle system with the ability to be expanded to include many more effects
+- There is a particle system with the ability to be expanded to include many effects.
 
 - Press Numpad 0 to 9 to see some example effects. I explored the ability to use rendering effects such as alphablend, non-multiplied, premultiplied and additive modes.
 
-- The Controller class was created to teach myself about controlling a character on screen, it can be controlled using keyboard and also switch automatically to an Xbox One Gamepad is connected!
+- The Controller class was created to teach myself about controlling a character on screen, it can be controlled using keyboard and also switch automatically to an Xbox One Gamepad is connected.
 
 - Simple physics engine was created to showcase concepts such as mass, air drag, floor friction, velocity and acceleration for characters and also used in the interaction between particles in the particle system.
 
