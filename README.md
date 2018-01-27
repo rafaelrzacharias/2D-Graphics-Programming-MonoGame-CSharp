@@ -6,6 +6,7 @@ Download and install MonoGame for Visual Studio.
 
 Download the complete project with solution and placement art, build and enjoy!
 
+To try the game, please find the executable file in 2D_Graphics_Programming/bin/Windows/x86/Debug/
 
 NOTES:
 
